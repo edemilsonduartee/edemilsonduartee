@@ -48,7 +48,7 @@ Possuo conhecimentos em HTML, CSS e JavaScript, o que me auxilia na análise de 
 
 ## 📊 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=edemilsonduartee&show_icons=true&theme=radical)
 
 ---
 
